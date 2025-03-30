@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: ttps://test.ricacorp.com/sitemap.xml
+Sitemap: https://test.ricacorp.com/sitemap.xml
